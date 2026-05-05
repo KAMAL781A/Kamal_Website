@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+<header><h1>Contact</h1></header>
+
+<nav>
+<a href="index.html">About</a>
+<a href="experience.html">Experience</a>
+<a href="skills.html">Skills</a>
+<a href="projects.html">Projects</a>
+<a href="education.html">Education</a>
+<a href="certificates.html">Certificates</a>
+<a href="cv.html">CV</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<section class="card contact-card hidden">
+
+  <div class="contact-left">
+    <h2>Open to Opportunities 🚀</h2>
+    <p class="subtitle">Open to full-time roles and collaborations.</p>
+
+    <p><i class="fas fa-envelope"></i> kamaltadi112@email.com</p>
+    <p><i class="fas fa-phone"></i> +91-7382490512</p>
+
+    <p class="response">⚡ Available for immediate joining | Usually responds within 24 hours</p>
+
+    <div class="contact-buttons">
+      <a href="https://www.linkedin.com/" target="_blank" class="btn linkedin">
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+
+      <a href="https://github.com/" target="_blank" class="btn github">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </div>
+  </div>
+
+  <div class="contact-right">
+    <h3>Send Message</h3>
+
+    <form id="contact-form">
+  <input type="text" name="from_name" placeholder="Your Name" required class="input-field">
+  <input type="email" name="from_email" placeholder="Your Email" required class="input-field">
+  <textarea name="message" placeholder="Your Message" required class="input-field"></textarea>
+
+  <button type="submit" class="btn send-btn">Send Message</button>
+
+  <p id="success-message" class="success-msg"></p>
+</form>
+  </div>
+
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
