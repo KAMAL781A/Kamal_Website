@@ -6,9 +6,6 @@ This project showcases my skills, experience, and projects as an Associate Softw
 🌐 Live Website
 👉 [View Portfolio]( https://kamal781a.github.io/Kamal_Website/)
 
-🖼️ Homepage Preview
-
-
 👨‍💻 About Me
 Associate Software Engineer with 2+ years of experience in Software Testing and Quality Assurance.  
 Skilled in Manual Testing, Selenium Automation, SQL, and Web Development.
