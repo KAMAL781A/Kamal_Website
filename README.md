@@ -7,7 +7,7 @@ This project showcases my skills, experience, and projects as an Associate Softw
 👉 [View Portfolio]( https://kamal781a.github.io/Kamal_Website/)
 
 🖼️ Homepage Preview
-![Homepage](images/home.png)
+![Homepage](image/Home.png)
 
 👨‍💻 About Me
 Associate Software Engineer with 2+ years of experience in Software Testing and Quality Assurance.  
